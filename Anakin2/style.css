@@ -70,7 +70,7 @@ blockquote::before {
 blockquote {
   background: #008B8B;
   font-family: 'Source Code Pro', monospace;
-  font-position: left;
+  position: left;
   font-size: 70px;
   line-height: 100px;
   color: white;
